@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,csp.withgoogle.com
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,ai.google.dev
@@ -16,4 +18,4 @@ DOMAIN-SUFFIX,aistudio-pa.clients6.google.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,android.googleapis.com
 DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,csp.withgoogle.com
+
