@@ -1,5 +1,4 @@
 # Google Play 走香港节点比较快
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,play.googleapis.com
 DOMAIN-SUFFIX,play-fe.googleapis.com
