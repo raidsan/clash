@@ -15,7 +15,15 @@ DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,aistudio-pa.clients6.google.com
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,android.googleapis.com
+
+# DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,gemini.googleusercontent.com
+DOMAIN-SUFFIX,gen-ai.googleusercontent.com
+DOMAIN-SUFFIX,gemini-assets.googleusercontent.com
+DOMAIN-SUFFIX,gemini-thumbnails.googleusercontent.com
+
+## 早期使用
+## DOMAIN-SUFFIX,ai.googleusercontent.com
+## DOMAIN-SUFFIX,bard.googleusercontent.com
 DOMAIN-SUFFIX,makersuite.google.com
 
