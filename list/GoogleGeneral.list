@@ -1,16 +1,23 @@
-DOMAIN-SUFFIX,google.com          		# 搜索、首页、登录等核心
-DOMAIN-SUFFIX,googleapis.com      		# 几乎所有 Google API（认证、地图、Drive 等，非 Play 专用）
-DOMAIN-SUFFIX,googleusercontent.com  	# 用户内容 CDN（头像、分享链接等，非 AI 生成内容）
-DOMAIN-SUFFIX,gstatic.com         		# 静态资源（JS、CSS、字体、generate_204 测速、心跳）
+# 搜索、首页、登录等核心
+DOMAIN-SUFFIX,google.com
+# 几乎所有 Google API（认证、地图、Drive 等，非 Play 专用）
+DOMAIN-SUFFIX,googleapis.com
+# 用户内容 CDN（头像、分享链接等，非 AI 生成内容）
+DOMAIN-SUFFIX,googleusercontent.com
+# 静态资源（JS、CSS、字体、generate_204 测速、心跳）
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,clients.google.com
-DOMAIN-SUFFIX,clients1.google.com  		# clients[1-9].google.com 系列，客户端 API/认证
+# clients[1-9].google.com 系列，客户端 API/认证
+DOMAIN-SUFFIX,clients1.google.com
 DOMAIN-SUFFIX,clients2.google.com
 DOMAIN-SUFFIX,clients3.google.com
 DOMAIN-SUFFIX,clients4.google.com
 DOMAIN-SUFFIX,clients5.google.com
 DOMAIN-SUFFIX,clients6.google.com
-DOMAIN-SUFFIX,mtalk.google.com    		# FCM 推送通知（Android App 实时推送）
-DOMAIN-SUFFIX,alt1-mtalk.google.com  	# mtalk 备用服务器
+# FCM 推送通知（Android App 实时推送）
+DOMAIN-SUFFIX,mtalk.google.com
+# mtalk 备用服务器
+DOMAIN-SUFFIX,alt1-mtalk.google.com
 DOMAIN-SUFFIX,alt2-mtalk.google.com
 DOMAIN-SUFFIX,alt3-mtalk.google.com
 DOMAIN-SUFFIX,alt4-mtalk.google.com
