@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,gen-ai.googleusercontent.com
 DOMAIN-SUFFIX,gemini-assets.googleusercontent.com
 DOMAIN-SUFFIX,gemini-thumbnails.googleusercontent.com
 
+DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN-SUFFIX,antigravity.google
+
 ## 早期使用
 ## DOMAIN-SUFFIX,ai.googleusercontent.com
 ## DOMAIN-SUFFIX,bard.googleusercontent.com
